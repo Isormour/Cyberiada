@@ -1,3 +1,0 @@
-Pierwsza linijka (druga zmiana)
-Druga Linijka (zmiana z serwera)
-Konflikt z rebase2 (lokalnie)
