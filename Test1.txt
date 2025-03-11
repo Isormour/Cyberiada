@@ -1,2 +1,2 @@
 Pierwsza linijka (druga zmiana)
-Druga Linijka
+Druga Linijka (zmiana z serwera)
