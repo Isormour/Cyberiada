@@ -1,2 +1,3 @@
 Pierwsza linijka (druga zmiana)
 Druga Linijka (zmiana z serwera)
+konflikt zmiana lokalka
